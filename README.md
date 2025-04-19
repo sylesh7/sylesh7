@@ -88,6 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sylesh7/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sylesh7/sylesh7/output/snake.svg" alt="Snake animation" />
 
 ###
