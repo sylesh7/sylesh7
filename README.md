@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img height="275" width="1200" src="https://indoanalytica.com/static/images/bannerr.gif" alt="banner" />
+  <img height="275" width="1160" src="https://indoanalytica.com/static/images/bannerr.gif" alt="banner" />
 </div>
 
 ---
